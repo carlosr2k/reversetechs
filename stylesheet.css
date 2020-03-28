@@ -1,0 +1,35 @@
+#banner {
+	background-color: rgba(0, 0, 0, .5);
+	height: 60px;
+	padding: 20px 60px 20px 60px;
+}
+
+#banner nav {
+	float: right;
+	position: relative;
+	top: 20px;
+}
+#banner h1 img {
+	float: left;
+	margin: 0;
+	width: 300px;
+	top: 20px;
+}
+#banner ul {
+	margin: 0;
+}
+#banner nav ul li{
+	display: inline-block;
+	width: 80px;
+}
+#banner nav ul li a {
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: ;
+	font-family: "Helvetica Neue", sans-serif;
+}
+#c a img {
+	width: 200px;
+}
